@@ -1,3 +1,10 @@
+Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionné par les technologies modernes. Ici, vous trouverez une collection de mes projets.
+
+
+
+
+
+
 - 👋 Hi, I’m @tsacristan
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning
