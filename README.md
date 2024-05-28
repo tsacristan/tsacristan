@@ -46,9 +46,9 @@ A brief description of this project.
 
 ## 📫 Contact
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-name/)
+- LinkedIn: nope
 - Email: [thurian.sacristan@etu.unilim.fr](mailto:thurian.sacristan@etu.unilim.fr)
-- Website: [your-website.com](https://your-website.com)
+- Website: nope
 
 ---
 
