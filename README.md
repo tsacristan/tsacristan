@@ -51,14 +51,7 @@
 
 ---
 
-### 📈 Contribution & Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsacristan&show_icons=true&theme=nord&hide_border=true&title_color=4FC08D&icon_color=4FC08D&text_color=ffffff" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsacristan&layout=compact&theme=nord&hide_border=true&title_color=4FC08D&text_color=ffffff&langs_count=8" height="170" />
-</p>
-
----
 
 ### 🛠️ Professional Projects
 
