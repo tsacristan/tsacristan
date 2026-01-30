@@ -1,55 +1,82 @@
-![Header](https://yourimageurl.com/header.png)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0D1117&height=160&section=header&text=Thurian%20Sacristan&fontSize=65&animation=fadeIn&fontColor=4FC08D" width="100%" />
 
-# Welcome to my GitHub profile! 👋
+  ### 🚀 Fullstack Engineer | Web • Mobile • Cloud
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC08D&center=true&vCenter=true&width=500&lines=Vue.js+%2B+React+Specialist;Mobile+Native+(Kotlin+%2F+Java);TypeScript+Architecture;Cloud+Deployment+Ready)](https://git.io/typing-svg)
 
-I am a computer science student passionate about modern technologies. Here, you will find a collection of my projects.
-
-## 👋 Hi, I’m @tsacristan
-
-👀 I’m interested in Computer Science.  
-🌱 I’m currently learning various technologies and tools to expand my knowledge in computer science.  
-📫 How to reach me:  
-  - Email: [thurian.sacristan@etu.unilim.fr](mailto:thurian.sacristan@etu.unilim.fr)
-
-## 🔧 Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-
-## 📈 GitHub Stats
-
-![tsacristan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsacristan&show_icons=true&hide_border=true&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsacristan&layout=compact&theme=radical)
-
-## 📚 Projects
-
-### [Project 1](https://github.com/tsacristan/project-1)
-A brief description of this project.
-
-### [Project 2](https://github.com/tsacristan/project-2)
-A brief description of this project.
-
-### [Project 3](https://github.com/tsacristan/project-3)
-A brief description of this project.
-
-## ✨ Interests
-
-- 💻 Web and mobile development
-- 🤖 Artificial Intelligence
-- 🌐 Cybersecurity
-- 🎮 Game development
-
-## 📫 Contact
-
-- LinkedIn: nope
-- Email: [thurian.sacristan@etu.unilim.fr](mailto:thurian.sacristan@etu.unilim.fr)
-- Website: nope
+  <p align="center">
+    <img src="https://img.shields.io/badge/Open_To_Collaborate-YES-4FC08D?style=flat-square" />
+    <img src="https://img.shields.io/badge/Main_Stack-TypeScript-3178C6?style=flat-square" />
+  </p>
+</div>
 
 ---
 
-*Made with ❤️ by [tsacristan](https://github.com/tsacristan)*
+### 💻 Technical Ecosystem
+
+<table align="center">
+  <tr>
+    <td align="center" width="250"><strong>Web Frontend</strong></td>
+    <td align="center" width="250"><strong>Mobile & Native</strong></td>
+    <td align="center" width="250"><strong>Logic & Backend</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vue,react,ts,js" /><br>
+      <i>Vue, React, TS, JS</i>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin,java,android" /><br>
+      <i>Kotlin, Java, Android</i>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,java,nodejs,docker" /><br>
+      <i>Python, Java, Node, Docker</i>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="750"><strong>Styling & Design</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma" /><br>
+      <i>HTML5, CSS3, Tailwind, Figma</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Contribution & Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tsacristan&show_icons=true&theme=nord&hide_border=true&title_color=4FC08D&icon_color=4FC08D&text_color=ffffff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsacristan&layout=compact&theme=nord&hide_border=true&title_color=4FC08D&text_color=ffffff&langs_count=8" height="170" />
+</p>
+
+---
+
+### 🛠️ Professional Projects
+
+| Application | Domain | Core Tech | Status |
+| :--- | :--- | :--- | :---: |
+| **Mobile App** | `Native Android` | Kotlin, Java | 🚀 |
+| **Web Dashboard** | `Frontend` | Vue.js, TypeScript | 🧪 |
+| **Data Engine** | `Backend` | Python, Docker | ⚙️ |
+
+---
+
+<div align="center">
+  <p><strong>Let's build something together</strong></p>
+  <a href="mailto:thurian.sacristan@etu.unilim.fr">
+    <img src="https://img.shields.io/badge/Send_Email-4FC08D?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=tsacristan&label=VISITS&color=4FC08D&style=flat-square" />
+</p>
